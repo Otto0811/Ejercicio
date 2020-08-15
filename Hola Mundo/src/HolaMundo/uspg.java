@@ -22,9 +22,9 @@ public class uspg {
         System.out.println("Hola este es mi nombre");     
         System.out.println(nombre);
         System.out.println("Y esta es mi edad");
-        System.out.println(edad);
-        System.out.println("Pruebas");
-    
+        
+        
+        
     
     }
     
